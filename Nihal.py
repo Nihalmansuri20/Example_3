@@ -1,1 +1,1 @@
-print("Hey NIhal, How r u today??")
+print("Hey NIhal, How r u today?? wht's your plan for today??")
